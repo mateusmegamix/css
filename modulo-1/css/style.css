@@ -1,0 +1,101 @@
+/*****AULA 22
+body{background-image:url(../img/mp.jpg);background-repeat:no-repeat;background-attachment:fixed;background-size:100% 100%;}
+*/
+
+/*****AULA 21
+#exemplo{width:200px;height:200px;background-color:red;transition-property:width;transition-duration:2s;transition-timing-function:width 2s linear 1s }
+#exemplo:hover{width:350px;height:350px;background-color:green;}
+*/
+
+/*****AULA 20
+#exemplo{border-style:solid;border-width:5px;border-color:red;outline:dotted 5px }
+*/
+
+/*****AULA 19
+#conteudo {width:600px;height:1200px;background-color:red;position;relative;}
+#texto{width:500px;background-color:green;position:absolute;left:0;top:40px;}
+*/
+
+/*****AULA 18
+#base{background-color:green;width:600px;height:600px;}
+#esquerda{background-color:red;width:300px;height:300px;float:left;}
+#direita{background-color:blue;width:300px;height:300px;float:right;}
+*/
+
+/*****Aula 16 e 17
+/*part2
+#cores{width:200px; height:200px; background:linear-gradient(to right, red, blue);}
+/*part1
+#cores{width:200px;height:200px;background-color:rgba(230, 89, 255, 0.5);}
+
+/*****AULA 14 e 15
+*{font-size:100%;}
+
+@font-face{
+font-family:open_sans;
+src: url(opensans-regular-webfont.woff);
+}
+p {font-family: 'Arimo', sans-serif;font-size:1.2em;}
+*/
+
+/*****AULA 13
+*{font-size:100%;}
+p{font-family:Arial,Verdana, sans-serif; font-variant:normal;font-size:1em;}
+*/
+
+/*****AULA 12
+#bloco {background-color:green;width:300px;height:150px; border-radius:20px 50px;}
+*/
+
+/*****AULA 11
+#conteudo{background-color:red;width:300px;height:50px;overflow:auto;}
+#conteudo p {opacity:0.5;}
+*/
+
+/*****AULA 10
+*{box-sizing:border-box;}
+#conteudo{background-color:red; width:300px; padding:20px;box-shadow: 10px 10px 5px blue}
+*/
+
+/*****AULA0 8 e 9
+p{color:red;text-align:justify; text-indent:20px; line-height:20px; direction:ltr; letter-spacing:3px; word-spacing:-4px;}
+h1{text-align:left;text-decoration:underline;text-shadow:3px 3px red}
+h2{text-align:right;text-decoration:overline}
+h3{text-align:center;text-decoration:line-through;}
+*/
+
+/*****AULA 07
+#exemplo {background-color:green; color:#fff; padding-top:10px; padding-right:20px; padding-bottom:30px;padding-left:30px; width:500px;}
+#exemplo2 {background-color:red; color:#fff; margin:20px 20px 20px 20px; padding:10px 20px 30px 30px; width:500px;}
+*/
+
+/*****AULA 06
+#conteudo {max-width:80%; min-height:100px; background-color:green; color:#fff; padding:20px;}
+*/
+
+/*****AULA 05
+.text-principal {color:red; text-align:center;}
+.fundo-principal {background-color:green; padding:20px;}
+#conteudo{background-color:blue; padding:20px; color:yellow;}
+*/
+
+
+/*****AULA 04
+h1, h2 {color:red; text-align:center;}
+p {color:black; text-align:center;}
+*/
+
+/*****AULA 2 e 3 
+*{margin:0;padding:0;}
+
+h1{color:blue;font-size:50px;}
+p{color:green;font-size:12px;}
+
+input[type="text"]{width:200px; background-color:#ccc; height:20px; border:none;}
+input[type="e-mail"]{width:150px; background-color: green; height:20px;}
+input[type="submit"]{width:70px; height:30px; cursor:pointer; }
+*/
+
+/*****Aula 01
+h1{font-size:60px;font-family:tahoma;}
+/*
